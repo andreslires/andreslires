@@ -47,7 +47,7 @@
 ## 📫 Contacto
 
 * 📧 **Email:** [andresliressaborido@gmail.com](mailto:andresliressaborido@gmail.com)
-* **Linkedin:**[Andrés Lires](https://www.linkedin.com/in/andres-lires/)
+* 👤 **Linkedin:** [Andrés Lires](https://www.linkedin.com/in/andres-lires/)
 * 📍 **Ubicación:** A Coruña, España
 
 ---
