@@ -2,16 +2,16 @@
 
 ### **Data Scientist & Data Engineer | Estudiante de Ciencia e Ingeniería de Datos**
 
-¡Bienvenido a mi perfil de GitHub! Soy estudiante de 4º curso en la **Universidade da Coruña**, apasionado por transformar datos en decisiones estratégicas. Mi enfoque combina el rigor estadístico con la capacidad técnica para resolver problemas reales, especialmente en los sectores del **deporte** y el **entretenimiento**.
+¡Bienvenido a mi perfil de GitHub! Soy estudiante de 4º curso en la **Universidade da Coruña**, apasionado por transformar datos en decisiones estratégicas, con interés especial en los sectores del **deporte** y el **entretenimiento**.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes:** Python, R, SQL, Matlab (Certificado Onramp).
+* **Lenguajes:** Python, R, SQL, Matlab.
 * **IA & Machine Learning:** Modelado predictivo, procesamiento inteligente y textual.
 * **Visualización:** Tableau, PowerBI.
-* **Ingeniería de Datos:** Herramientas de integración (Denodo, Talend) y diseño de bases de datos.
+* **Ingeniería de Datos:** Herramientas de integración (Denodo, Talend), diseño de bases de datos y visualización.
 
 ---
 
@@ -37,9 +37,9 @@
 
 * **Atleta Federado:** Competición en atletismo a nivel autonómico y nacional. 
 * **Ciclista:** Apasionado del ciclismo y las actividades al aire libre.
-* **Idiomas:** * 🇪🇸 Español & 🇬🇧 Galego (Nativo).
-    * 🇬🇧 Inglés (C1 - Avanzado por la EOI).
-    * 🇫🇷 Francés (B1 - Intermedio DELF).
+* **Idiomas:** Español y Galego (Nativo).
+    * Inglés (C1 - Avanzado por la EOI).
+    * Francés (B1 - Intermedio DELF).
 * 🚗 **Carnet de conducir B**.
 
 ---
@@ -47,6 +47,7 @@
 ## 📫 Contacto
 
 * 📧 **Email:** [andresliressaborido@gmail.com](mailto:andresliressaborido@gmail.com)
+* **Linkedin:**[Andrés Lires](https://www.linkedin.com/in/andres-lires/)
 * 📍 **Ubicación:** A Coruña, España
 
 ---
