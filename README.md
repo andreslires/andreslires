@@ -27,8 +27,8 @@
 ## 🏆 Excelencia Académica
 
 * **14 Matrículas de Honor** en materias clave (Estadística, ML, Redes, Gestión de Proyectos).
-* **Premio Ángela Ruiz Robles** a la Excelencia Académica (Ediciones 2022/23 y 2023/24).
-* **Mellor Expediente ABAU 2022** con una nota de 9,516 en la fase obligatoria.
+* **2 veces premio Ángela Ruiz Robles** a la Excelencia Académica (Ediciones 2022/23 y 2023/24).
+* **Mellores Expedientes ABAU 2022** con una nota de 9,516 en la fase obligatoria.
 * **Nota media actual de 8,916** en el Grado de Ciencia e Ingeniería de Datos.
 
 ---
@@ -36,8 +36,9 @@
 ## 🏃 Sobre mí
 
 * **Atleta Federado:** Competición en atletismo a nivel autonómico y nacional. 
-* **Ciclista:** Apasionado del ciclismo y las actividades al aire libre.
-* **Idiomas:** Español y Galego (Nativo).
+* **Deportes:** Apasionado del ciclismo y las actividades al aire libre.
+* **Idiomas:**
+    * Español y Galego (Nativo).
     * Inglés (C1 - Avanzado por la EOI).
     * Francés (B1 - Intermedio DELF).
 * 🚗 **Carnet de conducir B**.
