@@ -26,10 +26,10 @@
 
 ## 🏆 Excelencia Académica
 
-* **14 Matrículas de Honor** en materias clave (Estadística, ML, Redes, Gestión de Proyectos).
-* **2 veces premio Ángela Ruiz Robles** a la Excelencia Académica (Ediciones 2022/23 y 2023/24).
+* **16 Matrículas de Honor** en materias clave (Estadística, ML, Redes, Gestión de Proyectos).
+* **3 veces premio Ángela Ruiz Robles** a la Excelencia Académica (Ediciones 2022/23, 2023/24 y 2024/25).
 * **Mellores Expedientes ABAU 2022** con una nota de 9,516 en la fase obligatoria.
-* **Nota media actual de 8,916** en el Grado de Ciencia e Ingeniería de Datos.
+* **Nota media actual de 9,0135** en el Grado de Ciencia e Ingeniería de Datos.
 
 ---
 
