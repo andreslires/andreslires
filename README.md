@@ -1,8 +1,8 @@
 # 🚀 Hola, soy Andrés
 
-### **Data Scientist & Data Engineer | Estudiante de Ciencia e Ingeniería de Datos**
+### **Data Scientist & Data Engineer
 
-¡Bienvenido a mi perfil de GitHub! Soy estudiante de 4º curso en la **Universidade da Coruña**, apasionado por transformar datos en decisiones estratégicas, con interés especial en los sectores del **deporte** y el **entretenimiento**.
+¡Bienvenido a mi perfil de GitHub! Soy graduado en **Ciencia e Ingeniería de Datos** por la **Universidade da Coruña**, apasionado por transformar datos en decisiones estratégicas, con interés especial en los sectores del **deporte** y el **entretenimiento**.
 
 ---
 
@@ -21,6 +21,7 @@
 * **Investigación @ UDC:** Desarrollo de soluciones de procesamiento de información en el grupo IRLab.
 * **HackUDC 2025:** Participante en el hackathon estudiantil de la Facultad de Informática.
 * **Mentoring:** Mentor de estudiantes de nuevo ingreso en el Plan de Acción Titorial de la FIC.
+* **Proyectos personales**
 
 ---
 
@@ -29,7 +30,7 @@
 * **16 Matrículas de Honor** en materias clave (Estadística, ML, Redes, Gestión de Proyectos).
 * **3 veces premio Ángela Ruiz Robles** a la Excelencia Académica (Ediciones 2022/23, 2023/24 y 2024/25).
 * **Mellores Expedientes ABAU 2022** con una nota de 9,516 en la fase obligatoria.
-* **Nota media actual de 9,0135** en el Grado de Ciencia e Ingeniería de Datos.
+* **Nota media de 9,01** en el Grado de Ciencia e Ingeniería de Datos.
 
 ---
 
