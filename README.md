@@ -1,6 +1,6 @@
 # 🚀 Hola, soy Andrés
 
-### **Data Scientist & Data Engineer
+### **Data Scientist & Data Engineer**
 
 ¡Bienvenido a mi perfil de GitHub! Soy graduado en **Ciencia e Ingeniería de Datos** por la **Universidade da Coruña**, apasionado por transformar datos en decisiones estratégicas, con interés especial en los sectores del **deporte** y el **entretenimiento**.
 
