@@ -2,16 +2,27 @@
 
 ### **Data Scientist & Data Engineer**
 
-¡Bienvenido a mi perfil de GitHub! Soy graduado en **Ciencia e Ingeniería de Datos** por la **Universidade da Coruña**, apasionado por transformar datos en decisiones estratégicas, con interés especial en los sectores del **deporte** y el **entretenimiento**.
+Soy graduado en **Ciencia e Ingeniería de Datos** por la **Universidade da Coruña**, apasionado por transformar datos en decisiones estratégicas, con interés especial en los sectores del **deporte** y el **entretenimiento**.
+
+---
+
+## 📫 Contacto
+
+* 🌐 [**Web personal**](https://andreslires.github.io/)
+* 📧 **Email:** [andresliressaborido@gmail.com](mailto:andresliressaborido@gmail.com)
+* 👤 **Linkedin:** [Andrés Lires](https://www.linkedin.com/in/andres-lires/)
+* 📍 **Ubicación:** A Coruña, España
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes:** Python, R, SQL, Matlab.
-* **IA & Machine Learning:** Modelado predictivo, procesamiento inteligente y textual.
-* **Visualización:** Tableau, PowerBI.
-* **Ingeniería de Datos:** Herramientas de integración (Denodo, Talend), diseño de bases de datos y visualización.
+* **Lenguajes**: Python, R y SQL.
+* **Bases de datos**: Modelado, diseño y gestión de datos.
+* **Estadística**: Probabilidad, inferencia, modelos de regresión y análisis multivariante.
+* **IA y ML**: Machine Learning, Deep Learning, NLP, visión atificial y sistemas recomendadores.
+* **ETL / Integración**: Denodo y Talend.
+* **BI / Visualización**: Tableau y PowerBI.
 
 ---
 
@@ -27,10 +38,10 @@
 
 ## 🏆 Excelencia Académica
 
+* **Nota media de 9,01** en el Grado de Ciencia e Ingeniería de Datos.
 * **16 Matrículas de Honor** en materias clave (Estadística, ML, Redes, Gestión de Proyectos).
 * **3 veces premio Ángela Ruiz Robles** a la Excelencia Académica (Ediciones 2022/23, 2023/24 y 2024/25).
 * **Mellores Expedientes ABAU 2022** con una nota de 9,516 en la fase obligatoria.
-* **Nota media de 9,01** en el Grado de Ciencia e Ingeniería de Datos.
 
 ---
 
@@ -43,13 +54,5 @@
     * Inglés (C1 - Avanzado por la EOI).
     * Francés (B1 - Intermedio DELF).
 * 🚗 **Carnet de conducir B**.
-
----
-
-## 📫 Contacto
-
-* 📧 **Email:** [andresliressaborido@gmail.com](mailto:andresliressaborido@gmail.com)
-* 👤 **Linkedin:** [Andrés Lires](https://www.linkedin.com/in/andres-lires/)
-* 📍 **Ubicación:** A Coruña, España
 
 ---
