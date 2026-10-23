@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<br/>
+---
 
 ### <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" width="20" height="20" valign="middle" /> Stack Tecnológico
 
